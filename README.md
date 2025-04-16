@@ -124,6 +124,7 @@ int main() {
         cout << "4. Contact verwijderen\n";
         cout << "5. Afsluiten\n";
         cout << "Voer uw keuze in: ";
+        cout << "6. Contact bijwerken\n";
         cin >> keuze;
         
         if (keuze == 1) {
